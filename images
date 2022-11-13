@@ -1,0 +1,8 @@
+git clone https://github.com/ellennelson10/ellennelson10.github.io
+cd ellennelson10.github.io
+git config user.name ellennelson10
+git config user.email emnelson8@wisc.edu
+
+git add .
+git commit -m "Add folder"
+git push -u origin master
